@@ -216,6 +216,9 @@ var (
 
 	// IdentityKey default identity key
 	IdentityKey = "identity"
+	
+	// UserName new identity key by linksee
+	UserName = "username"
 )
 
 // New for check error with GinJWTMiddleware
